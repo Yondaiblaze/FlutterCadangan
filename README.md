@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Booking App
 
 Aplikasi booking mobil Flutter dengan UI yang modern dan menarik seperti Gojek. Aplikasi ini memungkinkan pengguna untuk mencari, melihat detail, dan memesan mobil dengan mudah.
@@ -199,3 +200,7 @@ Aplikasi ini dibuat untuk keperluan pembelajaran dan demonstrasi. Silakan gunaka
 ## 👨‍💻 Developer
 
 Dibuat dengan ❤️ menggunakan Flutter dan Material Design 3.
+=======
+# FlutterCadangan
+senjata rahasia
+>>>>>>> bb39fb2f21f5dfffc736f4f030d0e9df862e8710
